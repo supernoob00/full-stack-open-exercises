@@ -20,7 +20,7 @@ sequenceDiagram
   
   note right of browser: javascript fetches json data
   
-  broswer->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+  browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
   activate server
   server->>browser: the json data
   deactivate server
