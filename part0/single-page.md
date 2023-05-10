@@ -26,10 +26,4 @@ sequenceDiagram
   deactivate server
   
   note right of browser: javascript finishes rendering json data
-  
-  
-  
-  
-  
-  
 ```
